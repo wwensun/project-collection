@@ -1,0 +1,158 @@
+2017-12-10 14:02:37  class:Log.Log info Log.Log 信息 Generation: 0 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.6984999999999997 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3958087438959514 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 1 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.7721666666666666 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3946515549057045 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 2 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.8129999999999993 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.40050996513616605 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 3 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.8356666666666661 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.4175009573239458 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 4 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.85 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.4277711077788902 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 5 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.8893333333333334 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.41901359812126104 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 6 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.9248333333333337 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.42397434691262714 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 7 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.9443333333333347 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.4263932050837312 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 8 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.956000000000001 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.4264635903454762 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Generation: 9 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Fitness: 0.9610000000000007 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.4263562360983418 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 
+Solution Found! 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 
+-------------------------Monday:------------------------------------ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Database
+    Time: 13:00 - 16:00
+    Location: Room 3
+    Student Count: 80
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Linear Algebra - Session 2
+    Time: 10:00 - 13:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Application Engineering Development - session2
+    Time: 16:00 - 19:00
+    Location: Room 3
+    Student Count: 200
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Business Analysis and Information Engineering
+    Time: 8:00 - 10:00
+    Location: Room 3
+    Student Count: 100
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 -------------------------Tuseday:------------------------------------- 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Advanced Mathematics - Session 2
+    Time: 17:00 - 20:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Object-Oriented Design
+    Time: 11:00 - 14:00
+    Location: Room 3
+    Student Count: 100
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Algorithm
+    Time: 8:00 - 10:00
+    Location: Room 1
+    Student Count: 50
+    Room Capacity: 60
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 -------------------------Wednesday:----------------------------------- 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Cloud Computing - Session 2
+    Time: 8:00 - 11:00
+    Location: Room 3
+    Student Count: 90
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Application Engineering Development - session1
+    Time: 17:00 - 20:00
+    Location: Room 3
+    Student Count: 200
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Linear Algebra - Session 1
+    Time: 12:00 - 15:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Web Design
+    Time: 13:00 - 16:00
+    Location: Room 2
+    Student Count: 80
+    Room Capacity: 80
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Concurrent and Parallel Programming
+    Time: 16:00 - 19:00
+    Location: Room 2
+    Student Count: 60
+    Room Capacity: 80
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Big Data
+    Time: 14:00 - 16:00
+    Location: Room 1
+    Student Count: 60
+    Room Capacity: 60
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 -------------------------Thursday:------------------------------------ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Web Tools
+    Time: 15:00 - 18:00
+    Location: Room 1
+    Student Count: 60
+    Room Capacity: 60
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Data Warehousing and Business Intelligence
+    Time: 11:00 - 14:00
+    Location: Room 3
+    Student Count: 100
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Software Quality Control
+    Time: 9:00 - 12:00
+    Location: Room 2
+    Student Count: 50
+    Room Capacity: 80
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: User Experience Design
+    Time: 18:00 - 20:00
+    Location: Room 3
+    Student Count: 90
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: SmartPhone Application Development
+    Time: 14:00 - 16:00
+    Location: Room 2
+    Student Count: 50
+    Room Capacity: 80
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 -------------------------Friday:-------------------------------------- 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Cloud Computing - Session 1
+    Time: 11:00 - 14:00
+    Location: Room 3
+    Student Count: 90
+    Room Capacity: 200
+ 
+2017-12-10 14:02:38  class:Log.Log info Log.Log 信息 Course Class: Advanced Mathematics - Session 1
+    Time: 18:00 - 21:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 

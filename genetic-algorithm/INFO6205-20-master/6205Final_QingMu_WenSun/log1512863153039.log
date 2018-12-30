@@ -1,0 +1,231 @@
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 0 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.6958333333333332 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.40268693840322345 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 1 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.7629999999999998 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3648962064070463 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 2 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.8206666666666664 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3488992259076584 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 3 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.8616666666666666 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.34407574595768575 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 4 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9033333333333341 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3302846520343322 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 5 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9285000000000008 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3293716907599321 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 6 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9438333333333349 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32811731328648297 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 7 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.953666666666668 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3288248621618272 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 8 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9601666666666675 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3287046720523377 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 9 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.960000000000001 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32842438969070675 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 10 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9603333333333341 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3284058679569607 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 11 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9596666666666677 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32836385684009317 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 12 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9616666666666677 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32860904305941896 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 13 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9591666666666677 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285681070763529 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 14 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9725000000000008 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32855433206892537 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 15 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9765000000000006 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285165205743059 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 16 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9780000000000009 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285248558180493 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 17 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9775000000000007 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851229069098026 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 18 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.977333333333334 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285098310702051 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 19 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9776666666666673 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285117425324166 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 20 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9760000000000008 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851074051209683 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 21 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9785000000000008 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285122080786571 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 22 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9780000000000009 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285124265502018 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 23 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9761666666666674 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285119388504858 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 24 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9768333333333341 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851175801187665 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 25 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9761666666666674 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285116479070347 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 26 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.974333333333334 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851165456512477 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 27 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9746666666666673 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285116581952927 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 28 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9736666666666675 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285116449210392 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 29 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9760000000000006 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285116430543771 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 30 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9750000000000008 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851163696024044 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 31 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9766666666666675 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.3285116390974438 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 32 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9755000000000008 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851164397223803 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 33 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9741666666666674 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851164385707565 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Generation: 34 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Fitness: 0.9745000000000007 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息     Average Mutation Probability: 0.32851164322450044 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 
+-------------------------Monday:------------------------------------ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Advanced Mathematics - Session 1
+    Time: 12:00 - 15:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Web Design
+    Time: 18:00 - 21:00
+    Location: Room 3
+    Student Count: 80
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 -------------------------Tuseday:------------------------------------- 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Linear Algebra - Session 2
+    Time: 8:00 - 11:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Advanced Mathematics - Session 2
+    Time: 16:00 - 19:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Web Tools
+    Time: 12:00 - 15:00
+    Location: Room 2
+    Student Count: 60
+    Room Capacity: 80
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Big Data
+    Time: 14:00 - 16:00
+    Location: Room 3
+    Student Count: 60
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 -------------------------Wednesday:----------------------------------- 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Database
+    Time: 13:00 - 16:00
+    Location: Room 3
+    Student Count: 80
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Data Warehousing and Business Intelligence
+    Time: 16:00 - 19:00
+    Location: Room 3
+    Student Count: 100
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Algorithm
+    Time: 8:00 - 10:00
+    Location: Room 3
+    Student Count: 50
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: SmartPhone Application Development
+    Time: 19:00 - 21:00
+    Location: Room 1
+    Student Count: 50
+    Room Capacity: 60
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 -------------------------Thursday:------------------------------------ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Object-Oriented Design
+    Time: 16:00 - 19:00
+    Location: Room 3
+    Student Count: 100
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: User Experience Design
+    Time: 14:00 - 16:00
+    Location: Room 3
+    Student Count: 90
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Application Engineering Development - session1
+    Time: 11:00 - 14:00
+    Location: Room 3
+    Student Count: 200
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Concurrent and Parallel Programming
+    Time: 16:00 - 19:00
+    Location: Room 2
+    Student Count: 60
+    Room Capacity: 80
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Cloud Computing - Session 1
+    Time: 8:00 - 11:00
+    Location: Room 3
+    Student Count: 90
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 -------------------------Friday:-------------------------------------- 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Linear Algebra - Session 1
+    Time: 18:00 - 21:00
+    Location: Room 3
+    Student Count: 150
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Application Engineering Development - session2
+    Time: 13:00 - 16:00
+    Location: Room 3
+    Student Count: 200
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Business Analysis and Information Engineering
+    Time: 11:00 - 13:00
+    Location: Room 3
+    Student Count: 100
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Cloud Computing - Session 2
+    Time: 16:00 - 19:00
+    Location: Room 3
+    Student Count: 90
+    Room Capacity: 200
+ 
+2017-12-09 18:45:53  class:Log.Log info Log.Log 信息 Course Class: Software Quality Control
+    Time: 14:00 - 17:00
+    Location: Room 2
+    Student Count: 50
+    Room Capacity: 80
+ 
